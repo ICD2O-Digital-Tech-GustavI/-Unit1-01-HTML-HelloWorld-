@@ -1,12 +1,2 @@
 # -Unit1-01-HTML-HelloWorld-
-
-<!DOCTYPE html>
-</html>
-  </head>
-  <meta charset="utf-8"> 
-  </title>My First Web page </title>
-</head> 
-</body>
-<p> Hello World!</p>
-</body> 
-</html> 
+[![Mr Coxall's Super Linter](https://github.com/ICD2O-Digital-Tech-GustavI/Unit1-01-HTML-HelloWorld/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/ICD2O-Digital-Tech-GustavI/Unit1-01-HTML-HelloWorld/actions/)
